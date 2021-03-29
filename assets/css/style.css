@@ -1,0 +1,10 @@
+body{
+    font-family: 'Dosis', sans-serif;
+}
+.avatar{
+    width: 10rem;
+}
+
+p{
+    margin: 20px auto;
+}
